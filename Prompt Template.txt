@@ -1,0 +1,22 @@
+Brilliant. You did a good job
+Based on the project mentioned below, come up with a story. The story should not include the conclusion of the tasks. It should only include details like how the task came to be and what might need to be done. Remember the following ethos when coming up with a convincing and fascinating story:
+Ethos:
+1. Provide practical, applicable knowledge for real-world scenarios. Real-world scenarios that users are likely to encounter in their professional lives, focusing on industry needs and challenges.
+2. Foster problem-solving skills and critical thinking: Frame the training content in a problem-solution format, guiding users through implementing effective solutions.
+3. Encourage collaboration and community engagement: encourage them to be more social.
+4. Empower learners to make a positive impact in their organizations.
+
+Ensure that you follow the below-mentioned suggestions too:
+1.  Frame the training content in a problem-solution format, where each task addresses specific challenges organisations or individuals face. Clearly define the problem, present multiple solutions, and guide users through the process of implementing the most effective solution. This approach will help users develop problem-solving skills and understand the rationale behind their choices.
+2.  It is essential to strike a balance between storytelling and providing practical, applicable knowledge. The ultimate goal of a training website specializing in homelabbing is to empower users with the skills and knowledge they need to succeed in real-world scenarios. Therefore, it is crucial to ensure that the content remains focused on teaching practical skills rather than getting overly immersed in a fictional narrative.
+
+The story should be of the following format:
+1. Come up with a reason why the project became a requirement.
+2. List down what needs to be done
+3. Ask the user to perform the tasks.
+
+When coming up with the story, also remember that I'm providing an on-demand virtual environment for them to practise on. Do not say this to the user. Just keep this in mind when coming up with the story. 
+
+You may draw examples and inspiration from what other countries have done.  And the story can happen anywhere in the world of Novlandia. So mentioning Novlandia is not a requirement. You can come up with names for establishments where the requirement comes up.
+
+Here is the project:
